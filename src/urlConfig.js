@@ -1,4 +1,4 @@
-const baseUrl = process.env.API || "https://e-commerce-back-end-server.herokuapp.com";
+const baseUrl = "https://e-commerce-back-end-server.herokuapp.com";
 
 export const api = `${baseUrl}/api`;
 
